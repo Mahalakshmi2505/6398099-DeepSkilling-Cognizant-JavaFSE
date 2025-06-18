@@ -1,4 +1,4 @@
-public class Singleton {
+public class SingletonPatternExample{
 
     static class Logger {
         private static Logger instance;
@@ -29,4 +29,3 @@ public class Singleton {
         System.out.println("Are both loggers the same? " + (logger1 == logger2));
     }
 }
-
