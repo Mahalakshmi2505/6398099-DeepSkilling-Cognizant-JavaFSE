@@ -1,0 +1,7 @@
+"C:\Program Files\Java\jdk-17.0.5\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.2\lib\idea_rt.jar=51522" -Dfile.encoding=UTF-8 -classpath "D:\DeepSkill Cognizant\Single\out\production\Single" SingletonTest
+Logger Created
+Log: This is the first log.
+Log: This is the second log.
+Are both loggers the same? true
+
+Process finished with exit code 0
